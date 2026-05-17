@@ -20,7 +20,7 @@ This project analyzes business sales performance using Tableau and Excel. The da
 
 
 ## Tableau Dashboard
-(Add Tableau Public link here)
+(https://public.tableau.com/app/profile/iyiola.rufai/viz/sales-performance-dashboard_17790461072870/SalesPerformanceDashboard?publish=yes)
 
 ## Skills Demonstrated
 - Data Cleaning
@@ -28,3 +28,6 @@ This project analyzes business sales performance using Tableau and Excel. The da
 - Dashboard Design
 - Business Analysis
 - KPI Reporting
+
+
+
